@@ -6,5 +6,8 @@
         <element display="true" label="Last Name" max_length="40" name="last_name" type="string"/>
         <element label="Marketing Event" max_length="32" name="marketing_event" reference="x_17171_marketing_marketing_event" type="reference"/>
         <element label="Phone" max_length="40" name="phone" type="string"/>
+        <index name="index">
+            <element name="marketing_event"/>
+        </index>
     </element>
 </database>

@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-12-22 10:18:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>29ba43124fb3220035d44ea18110c76d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_17171_marketing_attendee.x_17171_marketing.user</sys_name>
