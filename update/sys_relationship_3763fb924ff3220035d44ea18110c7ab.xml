@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_17171_marketing_marketing_event</basic_apply_to>
+        <basic_query_from>x_17171_marketing_attendee</basic_query_from>
+        <insert_callback/>
+        <name>Marketing2</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field>marketing_event</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-22 13:21:35</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3763fb924ff3220035d44ea18110c7ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing2</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_17171_marketing">8f8bf69e4f33220035d44ea18110c772</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">8f8bf69e4f33220035d44ea18110c772</sys_scope>
+        <sys_update_name>sys_relationship_3763fb924ff3220035d44ea18110c7ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-22 13:21:35</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=3763fb924ff3220035d44ea18110c7ab"/>
+</record_update>
