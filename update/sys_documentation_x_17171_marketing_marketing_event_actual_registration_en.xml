@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-12-22 09:58:06</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>27e50f5e4f73220035d44ea18110c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Actual Registration</sys_name>

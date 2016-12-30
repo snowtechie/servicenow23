@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-12-22 09:12:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c78bb21a4f73220035d44ea18110c79b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_17171_marketing.user</sys_name>

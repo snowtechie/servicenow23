@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-12-22 09:31:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>307fb69a4f73220035d44ea18110c70b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Equipment Request</sys_name>
