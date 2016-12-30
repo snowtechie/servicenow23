@@ -43,7 +43,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-12-30 10:21:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>18f790094f40f20035d44ea18110c7eb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Marketing Events Application</sys_name>
